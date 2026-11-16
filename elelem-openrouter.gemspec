@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   spec.executables = ["elelem-openrouter"]
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "elelem-openai", ">= 0.2", "< 1"
+  spec.add_dependency "elelem-openai", ">= 0.3", "< 1"
 end
